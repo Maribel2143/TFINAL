@@ -6,8 +6,8 @@ if (!defined('SRCP')) {
     //comienzo del registro de los profesores.
     if (!empty($_POST)) {
         /*
-         * TODO Arreglar los Echo, por paneles bien hechos
-            TODO: Acomopar las validaciones con sus modale
+         * TODO Arreglar los Echo, por paneles bien hechos.
+            TODO: Acomopar las validaciones con sus modales.
          */
         // if (empty($_POST['cedula'])) {
         //     echo "<div class='panel-body'>
