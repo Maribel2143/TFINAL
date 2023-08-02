@@ -1,4 +1,4 @@
-<?php
+<?php 
 if (!defined('SRCP')) {
     die('Logged Hacking attempt!');
 }
