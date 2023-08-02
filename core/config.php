@@ -1,4 +1,4 @@
-<?php
+<?php 
     // Variables para conectar a la DB MySQL
     $username = 'root';
     $password = '';
